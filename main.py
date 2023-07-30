@@ -149,3 +149,5 @@ try:
     step_of_number(numbers)
 except Exception as error:
     print(error)
+
+    print("finish")
